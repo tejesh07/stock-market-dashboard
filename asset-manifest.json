@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-market-dashboard/static/css/main.77d1332f.css",
+    "main.js": "/stock-market-dashboard/static/js/main.02151fd7.js",
+    "static/js/453.fc50da77.chunk.js": "/stock-market-dashboard/static/js/453.fc50da77.chunk.js",
+    "index.html": "/stock-market-dashboard/index.html",
+    "main.77d1332f.css.map": "/stock-market-dashboard/static/css/main.77d1332f.css.map",
+    "main.02151fd7.js.map": "/stock-market-dashboard/static/js/main.02151fd7.js.map",
+    "453.fc50da77.chunk.js.map": "/stock-market-dashboard/static/js/453.fc50da77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d1332f.css",
+    "static/js/main.02151fd7.js"
+  ]
+}
